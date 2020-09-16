@@ -1,0 +1,6 @@
+RENCANA BELAJAR PROGRAM
+
+-Javascript
+-GitHub
+-Git
+-React
