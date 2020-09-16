@@ -1,6 +1,8 @@
 RENCANA BELAJAR PROGRAM
 
 -Javascript
+  1. ES6
+  2. Framework
 -GitHub
 -Git
 -React
