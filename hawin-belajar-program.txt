@@ -3,7 +3,10 @@ RENCANA BELAJAR PROGRAM
 -Javascript
   1. ES6
   2. Framework
+    -vue
 -Fundamental - Struktur data
 -GitHub
+  1. Branch
 -Git
 -React
+-Python
