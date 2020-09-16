@@ -6,7 +6,6 @@ RENCANA BELAJAR PROGRAM
     -vue
 -Fundamental - Struktur data
 -GitHub
-  1. Branch
 -Git
 -React
--Python
+
